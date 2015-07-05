@@ -28,5 +28,19 @@
     "nickd": "0.0.2",
     "own-version": "0.0.2",
     "prettiest": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imjoehaines/nickd-cli.git"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "tasks",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/imjoehaines/nickd-cli/issues"
+  },
+  "homepage": "https://github.com/imjoehaines/nickd-cli#readme"
 }
