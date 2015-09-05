@@ -1,4 +1,4 @@
-var foreach = require('lodash/collection/foreach')
+var foreach = require('lodash/collection/forEach')
 var mocha = require('mocha')
 var expect = require('expect')
 var cli = require('../cli')
